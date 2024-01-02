@@ -1,3 +1,10 @@
+<style>
+  * {
+  margin: 0;
+  padding: 0;
+  }
+</style>
+
 ### hey there 
 <a href="https://www.instagram.com/rahatzh1/">
   <img align="left" alt="Rakhat's Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
