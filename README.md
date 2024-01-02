@@ -18,7 +18,7 @@ Hi, I am [Rakhat Zhakiyenov](https://rakhat.me/), a passionate self-taught full-
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img class="gifimg" align="right" style="width: 50%;
+  <img class="gifimg" align="right" style="margin: 0; padding: 0; width: 50%;
 height: 20%;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
 - 💼 any freelance work? do reach, [email](mailto:rakhat.zhakiyenov.uni@gmail.com) :)
