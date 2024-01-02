@@ -1,7 +1,7 @@
 <style>
 .gifimg {
-width: 50%;
-height: 20%;
+width: 5%;
+height: 10%;
 }
   
 </style>
