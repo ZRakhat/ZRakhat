@@ -1,12 +1,20 @@
+<style>
+.gifimg {
+width: 50%;
+height: 20%;
+}
+  
+</style>
+
 ### hey there 
 <a href="https://www.instagram.com/rahatzh1/">
-  <img align="left" alt="Rakhat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Rakhat's Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
 </a>
 <a href="http://discordapp.com/users/267616852367245313">
-  <img align="left" alt="Rakhat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Rakhat's Discord" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zrakh/">
-  <img align="left" alt="Rakhat's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rakhat's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
@@ -18,9 +26,9 @@ Hi, I am [Rakhat Zhakiyenov](https://rakhat.me/), a passionate self-taught full-
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img class="gifimg" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
-- 💼 any freelance work? do reach, [email](mailto:rakhatzhakiyenov@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:rakhat.zhakiyenov.uni@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
 **Languages and tools:**  
@@ -51,7 +59,7 @@ JavaScript   6 mins          ░░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
