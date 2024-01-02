@@ -1,11 +1,3 @@
-<style>
-.gifimg {
-width: 5%;
-height: 10%;
-}
-  
-</style>
-
 ### hey there 
 <a href="https://www.instagram.com/rahatzh1/">
   <img align="left" alt="Rakhat's Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
@@ -26,7 +18,8 @@ Hi, I am [Rakhat Zhakiyenov](https://rakhat.me/), a passionate self-taught full-
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img class="gifimg" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+  <img class="gifimg" align="right" style="width: 5%;
+height: 10%;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
 - 💼 any freelance work? do reach, [email](mailto:rakhat.zhakiyenov.uni@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
