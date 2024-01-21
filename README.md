@@ -1,6 +1,6 @@
 Hi!👋 My name is Rakhat Zhakiyenov. <br />
 I have been learning code for 5 years: <br />
-🌍  I'm based in Hong kong and Kazakhstan <br />
+🌍  I'm based in Hong Kong and Kazakhstan <br />
 ✉️  You can contact me at [rzhakiyen2-c@my.cityu.edu.hk](mailto:rzhakiyen2-c@my.cityu.edu.hk) <br />
 🤝  I'm open to collaborating on projects!<br />
 
